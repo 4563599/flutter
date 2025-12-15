@@ -1,0 +1,4 @@
+我是小白我想模仿学习#trip_flutter这个项目，
+我想创建一个新的flutter项目自己写代码实现跟#trip_flutter这个项目功能保持一致。
+先帮我写一个详细的文档，先教我怎么在Android Studio Otter上创建一个flutter项目，文档名称为
+1_创建flutter项目步骤.md,文档写在flutter_learn目录下
