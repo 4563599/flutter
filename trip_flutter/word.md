@@ -2,3 +2,11 @@
 我想创建一个新的flutter项目自己写代码实现跟#trip_flutter这个项目功能保持一致。
 先帮我写一个详细的文档，先教我怎么在Android Studio Otter上创建一个flutter项目，文档名称为
 1_创建flutter项目步骤.md,文档写在flutter_learn目录下
+
+
+
+
+我是小白我想模仿学习#trip_flutter这个项目，我已经新建了my_trip_app这个新flutter项目
+想自己写代码实现跟#trip_flutter这个项目功能保持一致。接下来我该怎么去学习模仿main.dart，
+帮我先分析一下代码功能，然和写一个学习和编写代码步骤。 
+文档名字为2_main.dart.md，放在flutter_learn目录下
