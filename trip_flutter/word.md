@@ -6,7 +6,4 @@
 
 
 
-我是小白我想模仿学习#trip_flutter这个项目，我已经新建了my_trip_app这个新flutter项目
-想自己写代码实现跟#trip_flutter这个项目功能保持一致。接下来我该怎么去学习模仿main.dart，
-帮我先分析一下代码功能，然和写一个学习和编写代码步骤。 
-文档名字为2_main.dart.md，放在flutter_learn目录下
+我是小白我想模仿学习#trip_flutter这个项目，我已经新建了my_trip_app这个新flutter项目 想自己写代码实现跟#trip_flutter这个项目功能保持一致。接下来我该怎么去学习模仿main.dart， 帮我先分析一下main.dart代码功能，然和写一个学习和编写代码步骤文档， 文档名字为2_main.dart.md，放在flutter_learn目录下。
