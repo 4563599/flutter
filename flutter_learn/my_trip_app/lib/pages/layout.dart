@@ -30,7 +30,7 @@ class LayoutTutorialPage extends StatelessWidget {
           _buildNavButton(
             context,
             '1. 垂直布局 Column',
-            const VerticalLayoutPage(),
+            const VerticalLayoutPage1(),
           ),
           _buildNavButton(context, '2. 水平布局 Row', const HorizontalLayoutPage()),
           _buildNavButton(context, '3. 主轴对齐演示', const MainAxisAlignmentPage()),
@@ -112,6 +112,27 @@ class VerticalLayoutPage extends StatelessWidget {
               child: Text('容器', style: TextStyle(color: Colors.white)),
             ),
           ),
+        ],
+      ),
+    );
+  }
+}
+
+class VerticalLayoutPage1 extends StatelessWidget {
+  const VerticalLayoutPage1({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text('垂直布局')),
+      body: Column(
+        children: [
+          Text('我是第一个'),
+          Text('我是第二个'),
+          Text('我是第一个'),
+          Text('我是第二个'),
+          ElevatedButton(onPressed: () {}, child: Text('按钮')),
+          Icon(Icons.star, size: 50),
         ],
       ),
     );

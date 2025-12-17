@@ -1,14 +1,14 @@
 // pages/home_page.dart
 import 'package:flutter/material.dart';
 
-class HomePage extends StatefulWidget {
-  const HomePage({Key? key}) : super(key: key);
+class MyPage extends StatefulWidget {
+  const MyPage({Key? key}) : super(key: key);
 
   @override
-  State<HomePage> createState() => _HomePageState();
+  State<MyPage> createState() => _MyPageState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _MyPageState extends State<MyPage> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(body: Center(child: Text('首页')));
